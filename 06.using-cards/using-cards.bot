@@ -1,0 +1,18 @@
+{
+    "name": "using-cards",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3977/api/messages",
+            "id": "90",
+            "name": "development"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\juan1\\Desktop\\BotBuilder-Samples\\samples\\javascript_nodejs\\06.using-cards\\using-cards.bot",
+    "overrides": null
+}
